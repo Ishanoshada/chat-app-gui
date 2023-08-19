@@ -60,6 +60,10 @@ To run the application, you need the following:
 
 ## Screenshots
 
+**Chat interface (`app*.py`):**
+
+![Chat interface](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20230820_032753.jpg)
+
 **Basic Version (`app.py`):**
 
 ![Basic Version Screenshot](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20230820_032839.jpg)
