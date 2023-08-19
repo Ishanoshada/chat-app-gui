@@ -62,17 +62,17 @@ To run the application, you need the following:
 
 **Basic Version (`app.py`):**
 
-![Basic Version Screenshot](screenshots/app_basic_screenshot.png)
+![Basic Version Screenshot](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20230820_032839.jpg)
 
 **Styled Version (`app-style.py`):**
 
-![Styled Version Screenshot](screenshots/app_style_screenshot.png)
+![Styled Version Screenshot](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/IMG_20230820_032857.jpg?raw=true)
 
 ## Content Overview
 
 - `app.py`: The basic version of the chat application without styling.
 - `app-style.py`: The styled version of the chat application with enhanced visuals.
-- `screenshots/`: Contains screenshots of both the basic and styled versions.
+
 
 Feel free to explore the code and customize it according to your preferences.
 
