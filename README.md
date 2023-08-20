@@ -66,11 +66,11 @@ To run the application, you need the following:
 
 **Basic Version (`app.py`):**
 
-![Basic Version Screenshot](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20230820_032839.jpg)
+![Basic Version Screenshot](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/IMG_20230820_032857.jpg?raw=true)
 
 **Styled Version (`app-style.py`):**
 
-![Styled Version Screenshot](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/IMG_20230820_032857.jpg?raw=true)
+![Styled Version Screenshot](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20230820_032839.jpg)
 
 ## Content Overview
 
