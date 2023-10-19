@@ -77,6 +77,7 @@ To run the application, you need the following:
 - `app.py`: The basic version of the chat application without styling.
 - `app-style.py`: The styled version of the chat application with enhanced visuals.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/ChatappguiIsh/count.svg)
 
 Feel free to explore the code and customize it according to your preferences.
 
